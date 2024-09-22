@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hina Atif</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://66.media.tumblr.com/b28d0cde95865b595b9291a9079908ab/tumblr_inline_ppn2q4Xn8x1v5srb7_500.gif">
+<img align="right" alt="coding" width="400" src="https://mintbook.com/assetsNew/img/university.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina-atif&label=Profile%20views&color=0e75b6&style=flat" alt="hina-atif" /> </p>
 

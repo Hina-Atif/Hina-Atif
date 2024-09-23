@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/d328ae02-e23a-4c03-b20d-d735616c3123))
+![logo](https://github.com/user-attachments/assets/d328ae02-e23a-4c03-b20d-d735616c3123)
 
 <h1 align="center">Hi 👋, I'm Hina Atif</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>

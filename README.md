@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Hina Atif</h1>
-<h3 align="center">A passionate Devops Engineer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Hina Atif | DevOps Cloud Engineer 🚀
+</h1>
+<h3 align="center">
+Passionate about automating cloud infrastructure and streamlining CI/CD pipelines to deliver high-quality applications. Skilled in Docker, Kubernetes, AWS, Terraform, and continuous integration tools. Always exploring innovative solutions for scalable, secure, and efficient cloud environments.
+
+🌟 Let's connect and collaborate on cutting-edge DevOps projects! 🌟 from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://mintbook.com/assetsNew/img/university.gif">
 

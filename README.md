@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hina Atif | DevOps Cloud Engineer 🚀
 </h1>
 <h3 align="center">
-Passionate about automating cloud infrastructure and streamlining CI/CD pipelines to deliver high-quality applications. Skilled in Docker, Kubernetes, AWS, Terraform, and continuous integration tools. Always exploring innovative solutions for scalable, secure, and efficient cloud environments.
+Passionate about automating cloud infrastructure and streamlining CI/CD pipelines to deliver high-quality applications. Skilled in Linux, Docker, Jenkins,  Kubernetes, AWS, Terraform, and continuous integration tools. Always exploring innovative solutions for scalable, secure, and efficient cloud environments.
 
 🌟 Let's connect and collaborate on cutting-edge DevOps projects! 🌟 from Pakistan</h3>
 
@@ -16,7 +16,28 @@ Passionate about automating cloud infrastructure and streamlining CI/CD pipeline
 
 - 📫 How to reach me **hinaatif355@gmail.comm**
 
-- ⚡ Fun fact **Multitalented!**
+- ⚡ Fun fact **I’m multitalented and always eager to learn!**
+
+---
+## 🚀 Languages & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws) 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat-square&logo=jenkins) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)  
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)  
+![Terraform](https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform)
+
+---
+
+## 📌 Featured Projects
+
+- [CI/CD Pipeline with Jenkins + Docker](https://github.com/Hina-Atif/Hina-Atif-CI-CD-Pipeline) – End-to-end pipeline setup
+- [AWS DevOps Projects](https://github.com/Hina-Atif/AWS-Devops) – EC2, IAM, S3, and shell scripting
+- [Flask App with Monitoring](#) – Docker Compose + Prometheus + Grafana *(add link later)*
+- [Kubernetes Practice](#) – Deployments, Services, YAML *(if you plan to add)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

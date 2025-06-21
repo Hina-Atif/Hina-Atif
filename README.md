@@ -1,63 +1,59 @@
 
-<h1 align="center">Hi 👋, I'm Hina Atif — DevOps Cloud Engineer 🚀</h1>
+<h1 align="center">Hi 👋, I'm Hina Atif | DevOps Cloud Engineer 🚀
+</h1>
+<h3 align="center">
+Passionate DevOps & Cloud enthusiast, learning to automate cloud infrastructure and streamline CI/CD pipelines through hands-on projects. Familiar with Linux, Docker, Jenkins, Kubernetes, AWS, and Terraform. Eager to explore innovative solutions for secure, scalable, and efficient cloud environments.
+  
+🌟 Let's connect and collaborate on cutting-edge DevOps projects! 🌟 from Pakistan</h3>
 
-<p align="center">
-  <img align="right" src="https://github.com/Hina-Atif/Hina-Atif/blob/main/devops-animated.gif" alt="DevOps Engineers at work" width="300"/>
-</p>
+<img align="right" alt="coding" width="400" src="https://mintbook.com/assetsNew/img/university.gif">
 
-<h3 align="center">⚡ Automating infrastructure, deploying cloud-native apps, and streamlining CI/CD pipelines</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hina-atif&label=Profile%20views&color=0e75b6&style=flat" alt="hina-atif" /> </p>
+
+## 📢 I’m open to Remote DevOps roles or Internships – let’s connect!
+
+- 🌱 I’m currently learning **SysOps & Cloud**
+
+
+### 🛠️
+
+- 📫 How to reach me **hinaatif355@gmail.comm**
+
+- ⚡ Fun fact **I’m multitalented and always eager to learn!**
+
+---
+## 🚀 Languages & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws) 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat-square&logo=jenkins) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)  
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)  
+![Terraform](https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform)
 
 ---
 
-### 🛠️ Tools & Technologies I Work With
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
+## 📌 Featured Projects
+
+- [CI/CD Pipeline with Jenkins + Docker](https://github.com/Hina-Atif/Hina-Atif-CI-CD-Pipeline) – End-to-end pipeline setup
+- [AWS DevOps Projects](https://github.com/Hina-Atif/AWS-Devops) – EC2, IAM, S3, and shell scripting
+- [Flask App with Monitoring](#) – Docker Compose + Prometheus + Grafana *(add link later)*
+- [Kubernetes Practice](#) – Deployments, Services, YAML *(if you plan to add)*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hina atif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina atif" height="30" width="40" /></a>
+<a href="https://fb.com/hina atif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hina atif" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-### 📌 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hina-atif&show_icons=true&locale=en&layout=compact" alt="hina-atif" /></p>
 
-- 🚀 [CI/CD Pipeline with Jenkins + Docker](https://github.com/Hina-Atif/Hina-Atif-CI-CD-Pipeline) – End-to-end pipeline setup
-- ☁️ [AWS DevOps Projects](https://github.com/Hina-Atif/AWS-Devops) – EC2, IAM, S3, and shell scripting
-- 📈 Flask App with Monitoring – Docker Compose + Prometheus + Grafana *(link coming soon)*
-- ⚙️ Kubernetes Practice – Deployments, Services, YAML *(coming soon)*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hina-atif&show_icons=true&locale=en" alt="hina-atif" /></p>
 
----
-
-### 📊 GitHub Stats (Dark Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hina-Atif&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina-Atif&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🔗 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/hina-atif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hina-Atif" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">💬 “Learning never stops. DevOps never sleeps.”</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hina-atif&" alt="hina-atif" /></p>
 

@@ -37,11 +37,8 @@ Passionate DevOps & Cloud enthusiast, learning to automate cloud infrastructure 
 
 ## 📌 Featured Projects
 
-- [CI/CD Pipeline with Jenkins + Docker](https://github.com/Hina-Atif/Hina-Atif-CI-CD-Pipeline) – End-to-end pipeline setup
-- [AWS DevOps Projects](https://github.com/Hina-Atif/AWS-Devops) – EC2, IAM, S3, and shell scripting
-- [Flask App with Monitoring](#) – Docker Compose + Prometheus + Grafana *(add link later)*
-- [Kubernetes Practice](#) – Deployments, Services, YAML *(if you plan to add)*
-
+- https://github.com/Hina-Atif/automated-linux-helper
+- https://github.com/Hina-Atif/github-actions-cicd-workflow
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hina-atif" target="blank">

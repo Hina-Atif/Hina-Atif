@@ -10,7 +10,7 @@ Passionate DevOps & Cloud enthusiast, learning to automate cloud infrastructure 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina-atif&label=Profile%20views&color=0e75b6&style=flat" alt="hina-atif" /> </p>
 
-## 📢 I’m open to Remote DevOps roles or Internships – let’s connect!
+## 📢 I’m open to Remote DevOps roles or freelance projects – let’s connect!
 
 - 🌱 I’m currently learning **SysOps & Cloud**
 

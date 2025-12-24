@@ -94,14 +94,6 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
 
 ---
 
-## 📈 Contributions (Last Year)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 📝 Contribution Activity (Last Month)
 
 - **terraform-aws-infra-automation** – 12 commits  

@@ -40,6 +40,10 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
 
 ---
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ## 🛠️ Tech Stack 
 
 <p align="center">

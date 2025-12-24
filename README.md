@@ -20,26 +20,6 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
   </a>
 </p>
 
-
----
-
-## 🚀 About Me
-
-💻 Passionate **DevOps & Cloud Engineer** focused on building, automating, and deploying scalable cloud infrastructure  
-🌱 Strong hands-on experience with **AWS, Linux, CI/CD, Docker, Kubernetes & Terraform**  
-🧠 Learning by building **real-world DevOps & Cloud projects**  
-🌍 Open to **Remote Work | Junior Roles | Freelance Projects**  
-
-
----
-
-## 🧠 What I Do 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Automation;CI%2FCD+Pipelines+with+GitHub+Actions+%26+Jenkins;Docker+%26+Kubernetes+Deployments;Terraform+Infrastructure+as+Code;Linux+%26+Cloud+Security+Fundamentals">
-</p>
-
-
 ---
 
 ## 🚀 About Me

@@ -1,42 +1,43 @@
-# Hi 👋, I'm Hina Atif 🚀
+<h1 align="center">Hi 👋, I'm Hina Atif</h1>
 
-💻 **DevOps & Cloud Engineer**  
-🌍 Open to **Remote Roles | Internships | Freelance Projects**
+<h3 align="center">
+DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
+</h3>
 
-I’m a passionate DevOps & Cloud Engineer focused on building **scalable, secure, and automated cloud infrastructure**.  
-I enjoy working with **AWS, CI/CD pipelines, containerization, and Infrastructure as Code** to turn ideas into reliable production systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hina-atif-3627312a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hina%20Atif-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:hinaatif355@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on **cloud-native & DevOps automation projects**
-- 🌱 Currently improving **SysOps, Kubernetes & Terraform**
-- 🧩 Hands-on experience with **AWS, Docker, Jenkins, CI/CD**
-- 🤝 Open to **collaborations & open-source contributions**
-- 💬 Ask me about **Linux, AWS, CI/CD, Docker, Terraform**
-- ⚡ Fun fact: I’m multi-skilled and always eager to learn new technologies
+💻 Passionate **DevOps & Cloud Engineer** focused on building, automating, and deploying scalable cloud infrastructure  
+🌱 Strong hands-on experience with **AWS, Linux, CI/CD, Docker, Kubernetes & Terraform**  
+🧠 Learning by building **real-world DevOps & Cloud projects**  
+🌍 Open to **Remote Internships | Junior Roles | Freelance Projects**  
+📍 Based in **Pakistan**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Do (Animated)
 
-### 🔹 Cloud & DevOps
-- **AWS** (EC2, S3, VPC, RDS, Lambda)
-- **Docker & Kubernetes**
-- **Jenkins & GitHub Actions**
-- **Terraform (IaC)**
-- **Linux & Bash**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Automation;CI%2FCD+Pipelines+with+GitHub+Actions+%26+Jenkins;Docker+%26+Kubernetes+Deployments;Terraform+Infrastructure+as+Code;Linux+%26+Cloud+Security+Fundamentals">
+</p>
 
-### 🔹 Programming & Scripting
-- **Python**
-- **Shell Scripting**
-- **HTML / JavaScript (Basics)**
+---
 
-### 🔹 Monitoring & Tools
-- **Git & GitHub**
-- **Prometheus & Grafana**
-- **Nginx**
+## 🛠️ Tech Stack (Animated)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,githubactions,git,python,bash,grafana,prometheus,nginx&perline=7" />
+</p>
 
 ---
 
@@ -44,36 +45,56 @@ I enjoy working with **AWS, CI/CD pipelines, containerization, and Infrastructur
 
 🔹 **Terraform AWS Infrastructure Automation**  
 👉 https://github.com/Hina-Atif/terraform-aws-infra-automation  
-_Modular Terraform setup for scalable AWS infrastructure_
 
-🔹 **AWS Serverless Data Management**  
+🔹 **AWS Serverless Data Management (Lambda, DynamoDB, RDS)**  
 👉 https://github.com/Hina-Atif/aws-serverless-data-management  
-_Serverless architecture using Lambda, DynamoDB & RDS_
 
 🔹 **AWS VPC & Networking Project**  
 👉 https://github.com/Hina-Atif/aws-vpc-networking-project  
-_VPC design, peering, routing & networking fundamentals_
 
-🔹 **AWS Python HTTP API (Serverless)**  
-👉 https://github.com/Hina-Atif/aws-python-http-api-project  
-_Scalable HTTP API using Python & Serverless Framework_
+🔹 **Static Website Deployment on AWS (S3, EC2, Docker)**  
+👉 https://github.com/Hina-Atif/static-website-deployment-on-s3-hina-atif  
+
+🔹 **GitHub Actions CI/CD Workflow**  
+👉 https://github.com/Hina-Atif/github-actions-cicd-workflow  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats (Like Shubham – But Yours)
 
-![Hina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hina-Atif&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hina-Atif&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=tokyo-night" />
+</p>
+
+✅ *This graph automatically reflects YOUR real GitHub contributions.*
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hina-atif-3627312a0/
-- 📧 **Email:** hinaatif355@gmail.com
-- 💻 **GitHub:** https://github.com/Hina-Atif
+- 💼 LinkedIn: https://www.linkedin.com/in/hina-atif-3627312a0/
+- 📧 Email: hinaatif355@gmail.com
+- 💻 GitHub: https://github.com/Hina-Atif
 
 ---
 
-💡 *“Automating infrastructure today for scalable systems tomorrow.”*
+## ⚡ Fun Fact
+✨ I’m multitalented, disciplined, and committed to growing into a world-class Cloud & DevOps Engineer.
+
+---
+
+💡 *"Automating today for a scalable tomorrow."*
+
 

@@ -20,12 +20,12 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
 💻 Passionate **DevOps & Cloud Engineer** focused on building, automating, and deploying scalable cloud infrastructure  
 🌱 Strong hands-on experience with **AWS, Linux, CI/CD, Docker, Kubernetes & Terraform**  
 🧠 Learning by building **real-world DevOps & Cloud projects**  
-🌍 Open to **Remote Internships | Junior Roles | Freelance Projects**  
-📍 Based in **Pakistan**
+🌍 Open to **Remote Work | Junior Roles | Freelance Projects**  
+
 
 ---
 
-## 🧠 What I Do (Animated)
+## 🧠 What I Do 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Automation;CI%2FCD+Pipelines+with+GitHub+Actions+%26+Jenkins;Docker+%26+Kubernetes+Deployments;Terraform+Infrastructure+as+Code;Linux+%26+Cloud+Security+Fundamentals">
@@ -33,11 +33,18 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
 
 ---
 
-## 🛠️ Tech Stack (Animated)
+## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,githubactions,git,python,bash,grafana,prometheus,nginx&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,terraform,kubernetes,prometheus,grafana,linux,python,bash&perline=6" />
 </p>
+
+<p align="center">
+  <b>Cloud & DevOps:</b> AWS, Docker, Kubernetes, Terraform, Git, GitHub<br>
+  <b>Monitoring & Observability:</b> Prometheus, Grafana, AWS CloudWatch<br>
+  <b>OS & Scripting:</b> Linux, Python, Shell Scripting
+</p>
+
 
 ---
 

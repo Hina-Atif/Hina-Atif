@@ -87,6 +87,14 @@ Scalable HTTP API using Python & Serverless Framework.
 
 ---
 
+<p align="left">
+  <a href="https://github.com/Hina-Atif?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hina-Atif?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+</p>
+
+---
+
 ## ⚡ Fun Fact
 ✨ I’m multitalented, disciplined, and committed to growing into a world-class Cloud & DevOps Engineer.
 

@@ -5,13 +5,17 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hina-atif-3627312a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hina%20Atif-blue?style=flat-square&logo=linkedin">
+  <a href="https://www.linkedin.com/in/hina-atif-3627312a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hina%20Atif-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:hinaatif355@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-hinaatif355%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/Hina-Atif" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Hina--Atif-black?style=flat-square&logo=github" />
   </a>
 </p>
+
 
 ---
 
@@ -85,7 +89,6 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=tokyo-night" />
 </p>
 
-✅ *This graph automatically reflects YOUR real GitHub contributions.*
 
 ---
 

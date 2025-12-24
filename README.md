@@ -113,3 +113,12 @@ Scalable HTTP API using Python & Serverless Framework.
 
 💡 *"Automating today for a scalable tomorrow."*
 
+---
+
+## 📈 Contribution Activity (Last Year)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=react-dark&hide_border=true" />
+</p>
+
+

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hina Atif</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles%20%7C%20Internships%20%7C%20Freelance-success?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Jobs%20%7C%20Freelance%20%7C%20Junior%20DevOps%20%2F%20Cloud-success?style=flat&logo=github" />
 </p>
 
 

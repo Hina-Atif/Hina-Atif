@@ -71,7 +71,9 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
 
 ---
 
-## 📊 GitHub Activity & Stats (Like Shubham – But Yours)
+---
+
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight" />
@@ -80,6 +82,11 @@ DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hina-Atif&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina-Atif&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 

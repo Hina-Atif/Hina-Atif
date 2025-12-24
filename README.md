@@ -4,10 +4,9 @@
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Jobs%20%7C%20Freelance%20%7C%20Junior%20DevOps%20%2F%20Cloud-success?style=flat&logo=github" />
 </p>
 
+I build and automate cloud infrastructure with a focus on reliability, security, and scalability.  
+Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastructure as Code through real-world projects.
 
-<h3 align="center">
-DevOps & Cloud Engineer 🚀 | AWS | Docker | Kubernetes | Terraform | CI/CD
-</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hina-atif-3627312a0/" target="_blank">

@@ -76,10 +76,11 @@ Scalable HTTP API using Python & Serverless Framework.
 
 ---
 ## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hina-atif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hina-atif" /></p>
 
-![Hina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hina-Atif&layout=compact&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hina-atif&show_icons=true&locale=en&theme=tokyonight" alt="hina-atif" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hina-atif&theme=tokyonight" alt="hina-atif" /></p>
 ---
 
 ## 📈 Contribution Activity Graph

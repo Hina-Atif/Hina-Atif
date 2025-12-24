@@ -75,6 +75,12 @@ VPC design, peering, routing & AWS networking fundamentals.
 Scalable HTTP API using Python & Serverless Framework.
 
 ---
+## 📊 GitHub Stats
+
+![Hina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hina-Atif&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hina-Atif&layout=compact&theme=tokyonight)
+
+---
 
 ## 📈 Contribution Activity Graph
 

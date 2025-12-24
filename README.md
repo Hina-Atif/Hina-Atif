@@ -63,6 +63,12 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Hina-Atif&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hina-atif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hina-atif" /></p>
 

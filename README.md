@@ -115,10 +115,19 @@ Scalable HTTP API using Python & Serverless Framework.
 
 ---
 
-## 📈 Contribution Activity (Last Year)
+## 📈 Contributions (Last Year)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+---
+
+## 📝 Contribution Activity (Last Month)
+
+- **terraform-aws-infra-automation** – 12 commits  
+- **aws-serverless-data-management** – 8 commits  
+- **aws-vpc-networking-project** – 5 commits  
+
+---
 

@@ -44,7 +44,6 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
   <img src="https://komarev.com/ghpvc/?username=Hina-Atif&label=Profile%20Views&color=0e75b6&style=flat" alt="Hina-Atif profile views" />
 </p>
 
----
 
 <p align="left">
   <a href="https://github.com/Hina-Atif?tab=followers">

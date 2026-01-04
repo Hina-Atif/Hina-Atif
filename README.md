@@ -40,7 +40,17 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hina-Atif&label=Profile%20Views&color=0e75b6&style=flat" alt="Hina-Atif profile views" />
+</p>
 
+---
+
+<p align="left">
+  <a href="https://github.com/Hina-Atif?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hina-Atif?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+</p>
 
 ---
 
@@ -78,20 +88,6 @@ Hands-on experience with AWS, CI/CD pipelines, containerization, and Infrastruct
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hina-Atif&theme=tokyo-night" />
 </p>
 
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hina-Atif&label=Profile%20Views&color=0e75b6&style=flat" alt="Hina-Atif profile views" />
-</p>
-
----
-
-<p align="left">
-  <a href="https://github.com/Hina-Atif?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hina-Atif?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
-  </a>
-</p>
 
 ---
 
